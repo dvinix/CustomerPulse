@@ -1,0 +1,5 @@
+__pycache__
+.env
+*.pkl
+data/raw/*.csv
+.DS_Store

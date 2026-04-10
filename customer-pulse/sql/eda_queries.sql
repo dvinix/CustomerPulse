@@ -1,0 +1,2 @@
+-- Exploratory Data Analysis Queries
+-- Add your SQL queries here for data exploration

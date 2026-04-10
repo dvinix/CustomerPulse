@@ -1,0 +1,2 @@
+-- Database setup and table creation
+-- Add your setup queries here
